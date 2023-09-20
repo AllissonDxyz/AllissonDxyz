@@ -1,4 +1,4 @@
-![AllissonD](https://cdn.discordapp.com/banners/579419967196364848/fe7455dd4b66db7f54b3c2847e5afb13.png?size=600)
+<img src="./assets/AllissonD.xyz(new).png" width=900>
 
 #### <italic>Hello, I'm a passionate learner of programming, design, and modeling, always on a quest to expand my knowledge. I find immense joy in making substantial contributions to projects, which has led me to take on the role of Project Manager in a few lesser-known but equally exciting endeavors.</italic>
 
